@@ -45,19 +45,18 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : "github.com/Emirkhairy"
-  Instagram        : "https://www.instagram.com/emirkhairy/"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : #"bsky.app" # Replace this with you Bluesky username
+  bluesky          : "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  Instagram        : "https://www.instagram.com/emirkhairy/"
+  Instagram        : "www.instagram.com/emirkhairy/"
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
