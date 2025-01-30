@@ -21,7 +21,7 @@ main:
   #   url: /year-archive/
     
   - title: "CV"
-     URL: "/files/CV_EmirKhairy.pdf"
+     url: /files/CV_EmirKhairy.pdf
    
     
   # - title: "Guide"
